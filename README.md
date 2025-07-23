@@ -22,7 +22,7 @@ A high-performance, automated trading bot built for the [Raydium LaunchLab](http
 git clone https://github.com/justshiftjk/Bonkfun-Volume-Bot.git
 cd Bonkfun-Volume-Bot
 ```
-### 2. Clone the Repo
+### 2. Create `.env` file
 
 Create a `.env` file in the root directory and fill in the required fields:
 
