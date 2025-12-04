@@ -16,7 +16,6 @@ import figlet from "figlet";
 import chalk from "chalk";
 import { wallet, connection } from "./config";
 import fs from "fs";
-//comment
 
 const prompt = promptSync();
 // Function to fetch balance
